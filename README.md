@@ -6,7 +6,13 @@
 
 ## git commit -m 
 - 사용법 : git commit -m "<메시지>"
-
+"하고 엔터친후 다시"입력하면 여러줄로 커밋됨
+```
+git commit -m "여러줄
+dquote> 첫번째줄
+dquote> 두번째줄
+dquote> "
+```
 ## git status
 - 현재 상태를 본다.
 
